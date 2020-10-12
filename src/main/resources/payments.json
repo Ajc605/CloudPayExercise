@@ -1,0 +1,47 @@
+{
+  "payments":
+  [
+    {
+      "id": "P1",
+      "effectiveDate" : "2020-01-01",
+      "employeeId" : "1",
+      "paycode": "BONUS",
+      "amount": 80.22
+    },
+    {
+      "id": "P2",
+      "effectiveDate" : "2020-03-01",
+      "employeeId" : "1",
+      "paycode": "EXPENSES",
+      "amount": 95.50
+    },
+    {
+      "id": "P3",
+      "effectiveDate" : "2020-02-01",
+      "employeeId" : "2",
+      "paycode": "BONUS",
+      "amount": 80.22
+    },
+    {
+      "id": "P4",
+      "effectiveDate" : "2020-02-02",
+      "employeeId" : "3",
+      "paycode": "BONUS",
+      "amount": 80.77
+    },
+    {
+      "id": "P5",
+      "effectiveDate" : "2020-03-02",
+      "employeeId" : "4",
+      "paycode": "BONUS",
+      "amount": 50.00
+    },
+    {
+      "id": "P6",
+      "effectiveDate" : "2020-03-02",
+      "employeeId" : "3",
+      "paycode": "EXPENSES",
+      "amount": 20.11
+    }
+  ]
+}
